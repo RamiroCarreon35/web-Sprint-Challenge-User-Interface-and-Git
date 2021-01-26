@@ -12,6 +12,7 @@ This defines the default behavior for how flex items are laid out along the cros
 5. Explain why git is valuable to a team of developers.
 Git is a distributed version control system. It gives developers flexbility and freedom by providing every collobarator with a copy of the entire respository when you fork your own version. This ensures that you have control over the code and allows you to specifically only work on certain areas of it without possibly ruining someone elses code.
 
+
 # Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
